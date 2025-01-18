@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b9b7380623e432d",
+        "id": "83d870532f17b186",
         "type": "tabs",
         "children": [
           {
-            "id": "79434e08ff456580",
+            "id": "2519db5ae5a4a663",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Bookmarks/Common.md",
-                "bFile": "Bookmarks/Common.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Common"
-            }
-          },
-          {
-            "id": "147268047dc25e00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Auto/Audi RSQ8/rsq8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "rsq8"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -183,12 +169,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79434e08ff456580",
+  "active": "2519db5ae5a4a663",
   "lastOpenFiles": [
+    "1 Obsidian/Plugins.md",
     "1 Obsidian/Commit to git.md",
-    "Auto/Audi RSQ8/rsq8.md",
-    "Bookmarks/Common.md",
     "1 Obsidian/Code.md",
-    "1 Obsidian/Plugins.md"
+    "Auto/Audi RSQ8/rsq8.md",
+    "Bookmarks/Common.md"
   ]
 }
