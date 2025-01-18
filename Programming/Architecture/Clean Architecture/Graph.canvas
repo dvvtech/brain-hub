@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"eda1dc13cca12874","type":"text","text":"UI\n","x":-360,"y":-1160,"width":163,"height":120},
+		{"id":"92d0be26451568cc","type":"text","text":"DAL (Infrastructure, implement abstraction)\n\n","x":-150,"y":-1160,"width":193,"height":120},
+		{"id":"93187a049618da5c","type":"text","text":"DB\n\n","x":124,"y":-1160,"width":174,"height":120},
+		{"id":"bc367f7893eed879","type":"text","text":"Tests\n\n","x":-360,"y":-800,"width":163,"height":120},
+		{"id":"9f135079d4a18844","type":"text","text":"BL (Domain + Application and Abstractions)\n\n","x":-360,"y":-960,"width":420,"height":60},
+		{"id":"3f0296b071b4a92f","type":"text","text":"UI\n","x":-360,"y":-1380,"width":163,"height":120},
+		{"id":"b3edc5b11b4d8aa7","type":"text","text":"Application\n","x":-150,"y":-1380,"width":163,"height":120},
+		{"id":"b9400fcca0e9e416","type":"text","text":"Domain\n","x":48,"y":-1380,"width":163,"height":120},
+		{"id":"ca9d02fb32d9ab92","type":"text","text":"Infrastructure\n","x":-150,"y":-1540,"width":163,"height":120}
+	],
+	"edges":[
+		{"id":"4af8faef33202e0c","fromNode":"eda1dc13cca12874","fromSide":"bottom","toNode":"9f135079d4a18844","toSide":"top"},
+		{"id":"a1e91604d425de85","fromNode":"92d0be26451568cc","fromSide":"bottom","toNode":"9f135079d4a18844","toSide":"top"},
+		{"id":"17334b61d53b1f3f","fromNode":"92d0be26451568cc","fromSide":"right","toNode":"93187a049618da5c","toSide":"left"},
+		{"id":"aac08197a3a5c28f","fromNode":"bc367f7893eed879","fromSide":"top","toNode":"9f135079d4a18844","toSide":"bottom"},
+		{"id":"fe17c15a358a3694","fromNode":"3f0296b071b4a92f","fromSide":"right","toNode":"b3edc5b11b4d8aa7","toSide":"left"},
+		{"id":"ca3c82e9fc5a6b17","fromNode":"b3edc5b11b4d8aa7","fromSide":"right","toNode":"b9400fcca0e9e416","toSide":"left"},
+		{"id":"e478ee06c0cf4328","fromNode":"ca9d02fb32d9ab92","fromSide":"bottom","toNode":"b3edc5b11b4d8aa7","toSide":"top"}
+	]
+}

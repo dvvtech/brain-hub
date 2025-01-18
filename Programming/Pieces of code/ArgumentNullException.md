@@ -1,0 +1,1 @@
+throw new ArgumentNullException(nameof(seats), $"Объект места на {i} позиции был null");
