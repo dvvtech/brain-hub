@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "83d870532f17b186",
+        "id": "54e5a266e5b8718b",
         "type": "tabs",
         "children": [
           {
-            "id": "2519db5ae5a4a663",
+            "id": "67fe9e837c6bceca",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Projects/ParkV2/Begin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Begin"
             }
           }
         ]
@@ -169,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2519db5ae5a4a663",
+  "active": "67fe9e837c6bceca",
   "lastOpenFiles": [
+    "Projects/ParkV2/Begin.md",
+    "Projects/ParkV2",
     "1 Obsidian/Plugins.md",
     "1 Obsidian/Commit to git.md",
     "1 Obsidian/Code.md",
