@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Job/Project info.md",
+                "file": "Job/Journal/2025/03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project info"
-            }
-          },
-          {
-            "id": "2640e56b530e9cb9",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Job/Journal/2025/01.md",
-                "bFile": "Job/Journal/2025/01.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 01"
+              "title": "03"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +170,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2640e56b530e9cb9",
+  "active": "67fe9e837c6bceca",
   "lastOpenFiles": [
-    "Job/Projects.md",
+    "Job/Journal/2025/01.md",
+    "Job/Journal/2025/03.md",
     "Job/Project info.md",
+    "Job/Projects.md",
     "Job/Info.md",
     "1 Obsidian/Code.md",
-    "Job/Journal/2025/01.md",
     "Projects/ParkV2/Begin.md",
     "Projects/ParkV2",
     "1 Obsidian/Plugins.md",
