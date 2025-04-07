@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Job/Journal/2025/04/1 week.md",
+                "file": "Job/Journal/2025/04/2 week.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 week"
+              "title": "2 week"
             }
           }
         ]
@@ -170,11 +170,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f2d51e94dbd05a2",
+  "active": "67fe9e837c6bceca",
   "lastOpenFiles": [
+    "Job/Journal/2025/04/1 week.md",
+    "Job/Journal/2025/04/2 week.md",
     "Job/Journal/2025/04",
     "Job/Journal/2025/03.md",
-    "Job/Journal/2025/04/1 week.md",
     "1 Obsidian/Code.md",
     "Job/Journal/2025/01.md",
     "Job/Project info.md",
