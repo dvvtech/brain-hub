@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Life/Untitled.md",
+                "file": "Job/Journal/2025/04/2 week.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2 week"
             }
           }
         ]
@@ -172,6 +172,14 @@
   },
   "active": "67fe9e837c6bceca",
   "lastOpenFiles": [
+    "Personal/Spiral of development/Important.md",
+    "Job/Journal/2025/04/2 week.md",
+    "Personal/Schedule/My pet project.md",
+    "Personal/Schedule/Daily regime.md",
+    "Personal/Schedule/Current.md",
+    "Personal/Plans/Plan 10.11.md",
+    "Personal/Periodicaly/10 января установка фильтра.md",
+    "Personal/Life/Untitled.md",
     "Personal/Life/Personal.md",
     "Personal/Life/Emotional intellect.md",
     "Personal/Life/Distant work.md",
@@ -184,7 +192,6 @@
     "Personal/Gratitude journal/February/2024-02-12.md",
     "Personal/Family/Untitled.md",
     "Personal/Electric skate/Skate.md",
-    "Job/Journal/2025/04/2 week.md",
     "Job/Journal/2025/04/1 week.md",
     "Job/Journal/2025/04",
     "Job/Journal/2025/03.md",
@@ -192,12 +199,6 @@
     "Job/Journal/2025/01.md",
     "Job/Project info.md",
     "Job/Projects.md",
-    "Job/Info.md",
-    "Projects/ParkV2/Begin.md",
-    "Projects/ParkV2",
-    "1 Obsidian/Plugins.md",
-    "1 Obsidian/Commit to git.md",
-    "Auto/Audi RSQ8/rsq8.md",
-    "Bookmarks/Common.md"
+    "Projects/ParkV2"
   ]
 }
