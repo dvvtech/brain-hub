@@ -25,14 +25,12 @@
             "id": "8b0546c1316be4af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Personal/Dad/06.05.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20241020070106.png"
               },
-              "icon": "lucide-file",
-              "title": "06.05"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241020070106"
             }
           }
         ],
@@ -187,8 +185,17 @@
   },
   "active": "8b0546c1316be4af",
   "lastOpenFiles": [
-    "Personal/Dad/07.05.md",
+    "Z Images/Park/Pasted image 20250514100942.png",
+    "Z Images/Park/Pasted image 20250514100802.png",
+    "Z Images/Park/Pasted image 20250514100720.png",
+    "Z Images/Park/Pasted image 20250514100638.png",
+    "Projects/ParkV2/Street entertainment.md",
+    "Projects/ParkV2/Оbstacle course.md",
+    "Projects/Ideas/Ideas.md",
+    "Pasted image 20241020070106.png",
+    "Projects/ParkV2/Begin.md",
     "Personal/Dad/06.05.md",
+    "Personal/Dad/07.05.md",
     "Personal/Dad/08.05.md",
     "Personal/Dad/09.05.md",
     "Personal/Journal/09.md",
@@ -209,14 +216,9 @@
     "Health/Daily food.md",
     "Job/Info.md",
     "Projects/Common.md",
-    "Projects/Ideas/Ideas.md",
     "Projects/Ideas",
     "Projects/Auth service/Summary.md",
     "Projects/Auth service/Additional.md",
-    "Projects/Archive/List.md",
-    "Projects/Сulinary production/Common.md",
-    "Job/Journal/2025/04/3 week.md",
-    "Job/Journal/2025/04/4 week.md",
     "Projects/Reminder service",
     "Projects/Auth service",
     "Personal/Journal/Tech/April",
