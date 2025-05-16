@@ -25,12 +25,14 @@
             "id": "8b0546c1316be4af",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20241020070106.png"
+                "file": "Projects/Houses/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241020070106"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -185,6 +187,9 @@
   },
   "active": "8b0546c1316be4af",
   "lastOpenFiles": [
+    "Pasted image 20241020070106.png",
+    "Projects/Houses/Untitled.md",
+    "Projects/Houses",
     "Z Images/Park/Pasted image 20250514100942.png",
     "Z Images/Park/Pasted image 20250514100802.png",
     "Z Images/Park/Pasted image 20250514100720.png",
@@ -192,7 +197,6 @@
     "Projects/ParkV2/Street entertainment.md",
     "Projects/ParkV2/Оbstacle course.md",
     "Projects/Ideas/Ideas.md",
-    "Pasted image 20241020070106.png",
     "Projects/ParkV2/Begin.md",
     "Personal/Dad/06.05.md",
     "Personal/Dad/07.05.md",
@@ -218,12 +222,10 @@
     "Projects/Common.md",
     "Projects/Ideas",
     "Projects/Auth service/Summary.md",
-    "Projects/Auth service/Additional.md",
     "Projects/Reminder service",
     "Projects/Auth service",
     "Personal/Journal/Tech/April",
     "Personal/Journal/Tech",
-    "Job/Journal/2025/04",
-    "Projects/ParkV2"
+    "Job/Journal/2025/04"
   ]
 }
