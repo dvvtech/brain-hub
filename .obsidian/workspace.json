@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Job/Journal/2025/05/3 week.md",
+                "file": "Projects/Reminder service/Last.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 week"
+              "title": "Last"
             }
           }
         ]
@@ -172,15 +172,18 @@
   },
   "active": "67fe9e837c6bceca",
   "lastOpenFiles": [
-    "Job/Journal/2025/05/4 week.md",
-    "Projects/Reminder service/Last.md",
     "Job/Journal/2025/05/3 week.md",
+    "Job/Journal/2025/05/4 week.md",
+    "Job/Journal/2025/01.md",
+    "Projects/Reminder service/Last.md",
+    "Projects/Mini Projects/Mini projects.md",
+    "Projects/Mini Projects/0. AI.md",
+    "Projects/Common.md",
     "Job/Journal/2025/05/2 week.md",
     "Job/Journal/2025/05/1 week.md",
     "Personal/Life/Plans.md",
     "2025-05-18.md",
     "Untitled.canvas",
-    "Projects/Common.md",
     "Projects/Archive/List.md",
     "Projects/Reminder service/Summary.md",
     "Projects/Houses/Untitled.md",
@@ -203,10 +206,7 @@
     "Personal/Journal/08.md",
     "Personal/Journal/Tech/April/3 week.md",
     "Personal/Journal/Tech/April/2 week.md",
-    "Job/Journal/2025/01.md",
     "Job/Journal/2025/05",
-    "Job/Journal/2025/03.md",
-    "Job/Git.md",
     "Health/Recipes",
     "Projects/Ideas",
     "Projects/Reminder service",
